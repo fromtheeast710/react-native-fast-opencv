@@ -82,3 +82,5 @@ docs/.yarn
 .next
 docs/out/*
 .kotlin/
+
+.direnv
